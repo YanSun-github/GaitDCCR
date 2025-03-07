@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d4f154c-a71b-4b97-be75-0d9c8182f1b3" name="turing">
+        <fileTransfer accessType="SFTP" host="58.199.162.196" port="30023" sshConfigId="6938a77b-28ce-494f-ac9e-e6e11c6f1674" sshConfig="root@58.199.162.196:30023 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
